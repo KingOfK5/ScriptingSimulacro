@@ -1,1 +1,9 @@
-
+cd /home
+sudo touch hola-mundo.sh
+sudo nano hola-mundo.sh
+echo Hola mundo!
+Ctrl + O
+Ctrl + X
+su -
+cd /home 
+bash ./hola-mundo.sh
